@@ -1,0 +1,1 @@
+{"pg":{"driver":"pg","user":"","password":"","host":"127.0.0.1","database":"test-mig","schema":"my_schema"}}

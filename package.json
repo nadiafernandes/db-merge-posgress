@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cfenv": "^1.0.3",
+    "db-migrate": "^0.10.0-beta.12",
+    "db-migrate-pg": "^0.1.10"
+  },
+  "engines": {},
+  "devDependencies": {}
+}
